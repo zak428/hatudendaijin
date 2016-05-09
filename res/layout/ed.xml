@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#6495ED"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/endroll"
+        android:layout_width="wrap_content"
+        android:layout_height="460dp"
+        android:text="@string/endroll" />
+
+</LinearLayout>
